@@ -1,0 +1,5 @@
+Find and Replace (Strg+R) Date to Datetime-Format
+
+'(\d\d)+\.?(\d\d)+\.?(\d\d\d\d)'?
+
+'$3-$2-$1'
